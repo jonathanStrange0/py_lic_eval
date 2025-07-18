@@ -1,1 +1,10 @@
-requests
+requests==2.31.0          # MIT
+fastapi==0.100.0          # MIT :contentReference[oaicite:1]{index=1}
+scikit-learn==1.3.0       # BSD :contentReference[oaicite:2]{index=2}
+pandas==2.0.3             # BSD‑like
+pytorch==2.1.0            # BSD‑3 :contentReference[oaicite:3]{index=3}
+
+# Strong copyleft licenses (GPL variants)
+beets==1.14.0             # GPL‑2 or GPL‑3 (music tagger)
+gimpfu==0.1.0            # GPL for GIMP‑Python scripting
+
